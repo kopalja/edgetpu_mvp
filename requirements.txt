@@ -58,7 +58,6 @@ Shapely==1.8.0
 six==1.16.0
 soupsieve==2.3.2.post1
 textblob==0.17.1
-tflite-runtime==2.5.0.post1
 tqdm==4.62.3
 traitlets==5.1.1
 tweepy==4.6.0
